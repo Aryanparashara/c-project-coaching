@@ -1,27 +1,26 @@
 /*#include<stdio.h>
 int main()
 {
-  int per;
+  float per;
   printf("\n enter the percentage ");
-  scanf("%d",&per);
+  scanf("%f",&per);
   if (per>=90)
   {
-    printf("\n 100per. of scholarship ");
+    printf("\n you will get 100per. of scholarship ");
   }
   else if ((per>=60)&&(per<=90))
   {
-    printf("\n 60per. of scholarship ");
+    printf("\n you will get 60per. of scholarship ");
   }
 else if ((per>=40)&&(per<=60))
   {
-    printf("\n 40per. of scholarship ");
+    printf("\n you wil get 40per. of scholarship ");
   }
 else
 {
-  printf("\n no scholarship ");
-}
-}*/
-
+  printf("\n you will get no scholarship ");
+  }
+  }*/
 /*#include<stdio.h>
 int main ()
 {
