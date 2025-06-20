@@ -1,9 +1,9 @@
 /*#include<stdio.h>
-void main()
+int main()
 {
-  int a,b,c,d,e,f,g;
-  printf("\n central board of secondary education");
-  printf("\n              2025-26                ");
+  int a,b,c,d,e,f,g,per;
+  printf("\n CENTRAL BOARD OF SECONDARY EDUCATION");
+  printf("\n              2025-26              ");
   printf("\n ____________________________________");
   printf("\n   sub     sub      max      marks   ");
   printf("\n   code    name    marks    obtained ");
@@ -24,4 +24,23 @@ void main()
   printf("\n ____________________________________");
   printf("\n  Total Marks out of 600  -  %d",g);
   printf("\n ____________________________________");
-}*/
+  per=g*100/600;
+  printf("\n           percentage is %d          ",per);
+  printf("\n ____________________________________");
+  if (per>=90)
+  {
+  printf("\n 100per. of scholarship ");
+  }
+  else if ((per>=60)&&(per<90))
+  {
+    printf("\n 60per. of scholarship ");
+  }
+  else if ((per>=40)&&(per<60))
+  {
+    printf("\n 40per. of scholarship ");
+  }
+  else
+  {
+    printf("\n No scholarship");
+  }
+  }*/
