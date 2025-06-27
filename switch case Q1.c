@@ -39,7 +39,7 @@ int main()
     exit(0);
     break;
     default:
-    printf("\n Not valid choice ");
+    printf("\n INVALID CHOICE ");
     printf("\n 1,2,3,4,5");
     break;
   }
