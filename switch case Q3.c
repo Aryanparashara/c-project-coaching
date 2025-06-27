@@ -53,7 +53,7 @@ int main()
   }
   else 
   {
-    printf("\n NOT VALID CHOICE ");
+    printf("\n INVALID CHOICE ");
     printf("\n 1,2,3,4,5,6 ");
   }
 }*/
