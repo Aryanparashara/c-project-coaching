@@ -45,7 +45,7 @@ int main ()
     exit(0);
     break;
     default:
-    printf("\n Invalid choice ");
+    printf("\n INVALID CHOICE ");
     printf("\n Enter 1,2,3 ");
     break;
   }
