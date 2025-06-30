@@ -1,6 +1,5 @@
 /*#include<stdio.h>
-#include<stdio.h>
-int main ()
+   int main ()
 {
   int choice,amount,balance=5000;
   printf("\n Your balance is \u20B95000 ");
