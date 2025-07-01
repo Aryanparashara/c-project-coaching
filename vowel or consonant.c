@@ -1,10 +1,10 @@
 /*#include<stdio.h>
 int main()
 {
-  char ch;
-  printf("\n Enter a character: ");
-  scanf("%c",&ch);
-  switch(ch)
+  char alphabet;
+  printf("\n Enter a alphabet: ");
+  scanf("%c",&alphabet);
+  switch(alphabet)
   {
     case 'A':
     case 'a':
