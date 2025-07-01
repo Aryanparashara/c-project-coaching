@@ -10,7 +10,7 @@ int main()
   printf("\n Enter 6 for Satday ");
   printf("\n Enter 7 for Sunday ");
   printf("\n Enter 8 for Exit ");
-  printf("\n Enter the number ");
+  printf("\n Enter the No. ");
   scanf("%d",&number);
   switch(number)
   {
